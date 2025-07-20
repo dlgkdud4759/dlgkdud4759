@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Hayoung's%20Github&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </div>
 
 <!--내용 부분-->
